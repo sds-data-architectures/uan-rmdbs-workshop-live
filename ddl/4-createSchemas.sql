@@ -1,0 +1,2 @@
+CREATE SCHEMA courses AUTHORIZATION universitydbuserlive;
+CREATE SCHEMA courses_app AUTHORIZATION universitydbuserlive;
